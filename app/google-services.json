@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "927945521435",
+    "firebase_url": "https://pyrus-6ad5f.firebaseio.com",
+    "project_id": "pyrus-6ad5f",
+    "storage_bucket": "pyrus-6ad5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927945521435:android:f5fcc48cb939fcd2a63bbe",
+        "android_client_info": {
+          "package_name": "com.example.pulpify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsdBya5vfHsQqi1jlKjTmmYD8vACsUNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927945521435:android:109f54355bddb8f6a63bbe",
+        "android_client_info": {
+          "package_name": "com.example.spideysense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927945521435-oriefac2fq3qj3pre158lp9piasiik0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spideysense",
+            "certificate_hash": "17bed59a739aca26d8e3ddd8e1b2fcddfc1240e9"
+          }
+        },
+        {
+          "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsdBya5vfHsQqi1jlKjTmmYD8vACsUNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927945521435:android:41638e5e9fd8030a",
+        "android_client_info": {
+          "package_name": "tk.samgrogan.pyrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927945521435-qcf2omp7omqkbhrtgbvteqnjjphcvtlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tk.samgrogan.pyrus",
+            "certificate_hash": "47fc368acf6aa7ba0d3963748b6150c86ee1df92"
+          }
+        },
+        {
+          "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsdBya5vfHsQqi1jlKjTmmYD8vACsUNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927945521435-j99kmkggi0obl3i6gtsga398s7ghmff7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
