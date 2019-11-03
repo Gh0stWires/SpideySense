@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/black"
     tools:context=".MainActivity">
 
     <androidx.viewpager.widget.ViewPager
@@ -58,6 +59,7 @@
             android:id="@+id/learnMore"
             android:background="@color/black"
             android:textColor="@color/white"
+            android:padding="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintBottom_toBottomOf="parent"
@@ -67,9 +69,10 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
     <Button
         android:id="@+id/scan"
-        android:background="@color/black"
+        android:background="@color/red"
         android:textColor="@color/white"
         android:text="Scan for character"
+        android:padding="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
