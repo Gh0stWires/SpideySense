@@ -20,8 +20,8 @@ object Tools {
 
     val URL_MARVEL = "http://www.marvel.com"
 
-    val PUBLIC_KEY = "c246424c2dff19e64ca41fc41dc4518e"
-    val PRIVATE_KEY = "2cd718c64692282f68efed526286c560ea5547c0"
+    val PUBLIC_KEY = "API_KEY_HERE"
+    val PRIVATE_KEY = "API_KEY_HERE"
 
     val TIMESTAMP = "ts"
     val API_KEY = "apikey"
